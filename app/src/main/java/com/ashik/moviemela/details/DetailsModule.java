@@ -6,10 +6,6 @@ import com.ashik.moviemela.network.TmdbWebService;
 import dagger.Module;
 import dagger.Provides;
 
-/**
- * @author pulkitkumar
- * @author arunsasidharan
- */
 @Module
 public class DetailsModule {
     @Provides

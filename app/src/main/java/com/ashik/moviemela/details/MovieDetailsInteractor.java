@@ -7,9 +7,7 @@ import java.util.List;
 
 import io.reactivex.Observable;
 
-/**
- * @author arun
- */
+
 public interface MovieDetailsInteractor
 {
     Observable<List<Video>> getTrailers(String id);

@@ -4,9 +4,7 @@ import com.ashik.moviemela.Movie;
 
 import java.util.List;
 
-/**
- * @author arun
- */
+
 class FavoritesInteractorImpl implements FavoritesInteractor
 {
     private FavoritesStore favoritesStore;

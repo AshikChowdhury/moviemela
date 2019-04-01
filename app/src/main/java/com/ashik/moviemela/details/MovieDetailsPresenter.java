@@ -2,9 +2,7 @@ package com.ashik.moviemela.details;
 
 import com.ashik.moviemela.Movie;
 
-/**
- * @author arun
- */
+
 public interface MovieDetailsPresenter
 {
     void showDetails(Movie movie);

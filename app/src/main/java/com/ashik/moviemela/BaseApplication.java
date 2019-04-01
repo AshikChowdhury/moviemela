@@ -12,9 +12,6 @@ import com.ashik.moviemela.network.NetworkModule;
 
 import io.realm.Realm;
 
-/**
- * @author arun
- */
 public class BaseApplication extends Application
 {
     private AppComponent appComponent;

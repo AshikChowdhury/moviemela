@@ -1,8 +1,6 @@
 package com.ashik.moviemela.listing.sorting;
 
-/**
- * @author arun
- */
+
 public interface SortingDialogPresenter
 {
     void setLastSavedOption();

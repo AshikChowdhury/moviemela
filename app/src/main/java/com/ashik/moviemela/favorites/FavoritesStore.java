@@ -12,9 +12,7 @@ import javax.inject.Singleton;
 import io.realm.Realm;
 import io.realm.RealmResults;
 
-/**
- * @author arun
- */
+
 @Singleton
 public class FavoritesStore
 {

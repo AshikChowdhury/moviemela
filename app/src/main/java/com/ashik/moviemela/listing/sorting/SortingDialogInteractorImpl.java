@@ -1,8 +1,6 @@
 package com.ashik.moviemela.listing.sorting;
 
-/**
- * @author arun
- */
+
 class SortingDialogInteractorImpl implements SortingDialogInteractor
 {
     private SortingOptionStore sortingOptionStore;

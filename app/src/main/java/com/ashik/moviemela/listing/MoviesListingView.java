@@ -4,9 +4,6 @@ import com.ashik.moviemela.Movie;
 
 import java.util.List;
 
-/**
- * @author arun
- */
 interface MoviesListingView
 {
     void showMovies(List<Movie> movies);

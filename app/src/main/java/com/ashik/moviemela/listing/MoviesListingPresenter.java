@@ -1,8 +1,6 @@
 package com.ashik.moviemela.listing;
 
-/**
- * @author arun
- */
+
 public interface MoviesListingPresenter
 {
     void firstPage();

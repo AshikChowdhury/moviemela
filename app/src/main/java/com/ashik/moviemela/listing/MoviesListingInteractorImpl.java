@@ -15,9 +15,6 @@ import java.util.List;
 
 import io.reactivex.Observable;
 
-/**
- * @author arun
- */
 class MoviesListingInteractorImpl implements MoviesListingInteractor {
     private FavoritesInteractor favoritesInteractor;
     private TmdbWebService tmdbWebService;

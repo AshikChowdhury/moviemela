@@ -6,9 +6,6 @@ import com.ashik.moviemela.Video;
 
 import java.util.List;
 
-/**
- * @author arun
- */
 interface MovieDetailsView
 {
     void showDetails(Movie movie);

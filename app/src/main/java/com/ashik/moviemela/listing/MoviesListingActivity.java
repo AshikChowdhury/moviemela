@@ -23,7 +23,6 @@ import com.jakewharton.rxbinding2.support.v7.widget.RxSearchView;
 import java.util.concurrent.TimeUnit;
 import io.reactivex.disposables.Disposable;
 
-
 public class MoviesListingActivity extends AppCompatActivity implements MoviesListingFragment.Callback {
     public static final String DETAILS_FRAGMENT = "DetailsFragment";
     private boolean twoPaneMode;

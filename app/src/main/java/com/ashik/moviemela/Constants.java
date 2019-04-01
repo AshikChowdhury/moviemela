@@ -1,8 +1,5 @@
 package com.ashik.moviemela;
 
-/**
- * @author arun
- */
 public class Constants
 {
 

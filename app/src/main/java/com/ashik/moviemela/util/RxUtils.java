@@ -3,9 +3,7 @@ package com.ashik.moviemela.util;
 
 import io.reactivex.disposables.Disposable;
 
-/**
- * @author arun
- */
+
 public class RxUtils
 {
     public static void unsubscribe(Disposable subscription)

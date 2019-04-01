@@ -2,9 +2,7 @@ package com.ashik.moviemela.details;
 
 import dagger.Subcomponent;
 
-/**
- * @author arunsasidharan
- */
+
 @DetailsScope
 @Subcomponent(modules = {DetailsModule.class})
 public interface DetailsComponent
